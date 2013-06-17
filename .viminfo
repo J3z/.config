@@ -1,0 +1,861 @@
+# Ce fichier viminfo a été généré par Vim 7.3.
+# Vous pouvez l'éditer, mais soyez prudent.
+
+# 'encoding' dans lequel ce fichier a été écrit
+*encoding=utf-8
+
+
+# hlsearch on (H) or off (h):
+~h
+# Dernier motif de recherche  :
+~MSle0~/<
+
+# Dernières chaînes de substitution :
+$
+
+# Historique ligne de commande (chronologie décroissante) :
+:wq
+:w
+:q
+: syn=htmldjinja:
+: syn=htmldjango:
+:syn=htmldjango:
+:o tpl/index.twig
+:vsplit
+:split
+:split tpl/ajax.tpl
+:qw
+:split js
+:o index.php
+:o js/script.js
+:d124
+:d123
+:d9
+:d9\
+:d8
+:d4
+:d13
+:p 13
+:split index.html
+:o tpl/index.tpl
+:vsplit checklist.css
+:d3
+:d15
+:d14
+:set autoindent 1000
+:set autoindent
+:se ai
+:q!
+:o _layouts/j3z.html
+:d5
+:o _layouts/post.html
+:o _layouts/posts.html
+:o index.html
+:o css/main-j3z.css
+:o _config.yml
+:o _config.yaml
+:o _
+:vsplit css/main-j3z.css
+:d2
+:d6
+:d7
+:WQ
+
+# Historique chaîne de recherche (chronologie décroissante) :
+? <
+
+# Historique expression (chronologie décroissante) :
+
+# Historique ligne de saisie (chronologie décroissante) :
+
+# Historique ligne de saisie (chronologie décroissante) :
+
+# Registres :
+"0	LINE	0
+	
+"1	LINE	0
+	[remote "checklist"]
+		url = https://github.com/J3z/checklist-generator.git
+"2	LINE	0
+	
+"3	LINE	0
+	
+"4	LINE	0
+	autocmd BufNewFile,BufRead *.p? compiler perl
+"5	LINE	0
+	au BufRead,BufNewFile *.twig set syntax=htmljinja
+"6	LINE	0
+			{% extends ajax ? "" : "" %}
+"7	LINE	0
+			{% block modal %}{% endblock %}
+"8	LINE	0
+			{% endblock %}
+"9	LINE	0
+			  {% extends request.ajax ? "modals/arrivee.tpl" : "modals/mobilite.tpl" %}
+""-	CHAR	0
+	r
+
+# Marques dans le fichier :
+'0  12  36  ~/.gitconfig
+'1  51  16  ~/CLS/GAS/checklist-generator/tpl/index.twig
+'2  14  26  ~/.vimrc
+'3  7  0  ~/.vimrc
+'4  1  0  ~/CLS/GAS/checklist-generator/tpl/index.twig
+'5  1  0  ~/.vim/syntax/htmltwig.vim
+'6  23  9  ~/CLS/GAS/checklist-generator/tpl/index.twig
+'7  21  41  ~/.vimrc
+'8  58  10  ~/CLS/GAS/checklist-generator/tpl/index.twig
+'9  1  0  ~/CLS/GAS/checklist-generator/index.php
+
+# Liste de sauts (le plus récent en premier) :
+-'  12  36  ~/.gitconfig
+-'  13  0  ~/.gitconfig
+-'  1  0  ~/.gitconfig
+-'  51  16  ~/CLS/GAS/checklist-generator/tpl/index.twig
+-'  1  0  ~/CLS/GAS/checklist-generator/tpl/index.twig
+-'  14  26  ~/.vimrc
+-'  1  0  ~/.vimrc
+-'  7  0  ~/.vimrc
+-'  1  0  ~/.vim/syntax/htmltwig.vim
+-'  8  0  ~/.vim/syntax/htmltwig.vim
+-'  23  9  ~/CLS/GAS/checklist-generator/tpl/index.twig
+-'  21  41  ~/.vimrc
+-'  58  10  ~/CLS/GAS/checklist-generator/tpl/index.twig
+-'  1  0  ~/CLS/GAS/checklist-generator/index.php
+-'  16  43  ~/CLS/GAS/checklist-generator/index.php
+-'  1  0  ~/CLS/GAS/checklist-generator/js/script.js
+-'  18  0  ~/CLS/GAS/checklist-generator/index.php
+-'  8  1  ~/.gitconfig
+-'  8  1  ~/CLS/GAS/checklist-generator/index.php
+-'  19  54  ~/CLS/GAS/checklist-generator/index.php
+-'  17  0  ~/CLS/GAS/checklist-generator/index.php
+-'  162  0  ~/CLS/GAS/checklist-generator/tpl/index.tpl
+-'  1  14  ~/CLS/GAS/checklist-generator/tpl/index.tpl
+-'  20  29  ~/CLS/GAS/checklist-generator/index.php
+-'  1  0  ~/CLS/GAS/checklist-generator/index.
+-'  1  0  ~/CLS/GAS/html/checklist/index.html
+-'  45  30  ~/git/J3z.github.io/css/main-j3z.css
+-'  19  0  ~/git/J3z.github.io/css/main-j3z.css
+-'  48  0  ~/git/J3z.github.io/css/main-j3z.css
+-'  11  0  ~/git/J3z.github.io/css
+-'  1  0  ~/git/J3z.github.io/index.html
+-'  41  37  ~/CLS/LDAP/Schemas/sudoer.schema
+-'  1  0  ~/CLS/LDAP/Schemas/sudoer.schema
+-'  117  27  ~/CLS/LDAP/Schemas/sudoer.schema
+-'  110  0  ~/git/J3z.github.io/css/main-j3z.css
+-'  72  0  ~/git/J3z.github.io/css/main-j3z.css
+-'  108  0  ~/git/J3z.github.io/css/main-j3z.css
+-'  8  0  ~/git/J3z.github.io/_config.yml
+-'  9  0  ~/git/J3z.github.io/_config.yml
+-'  31  21  ~/git/J3z.github.io/_layouts/j3z.html
+-'  5  0  ~/git/J3z.github.io/index.html
+-'  23  21  ~/git/J3z.github.io/_layouts/j3z.html
+-'  11  3  ~/git/J3z.github.io/index.html
+-'  13  4  ~/git/J3z.github.io/_layouts/j3z.html
+-'  4  0  ~/git/J3z.github.io/index.html
+-'  24  21  ~/git/J3z.github.io/_layouts/j3z.html
+-'  1  0  ~/git/J3z.github.io/_layouts/j3z.html
+-'  1  5  ~/git/J3z.github.io/_config.yml
+-'  20  0  ~/git/J3z.github.io/_layouts/j3z.html
+-'  35  10  ~/CLS/LDAP/Scripts/perl/add-group-user.perl
+-'  1  0  ~/CLS/LDAP/Scripts/perl/add-group-user.perl
+-'  41  0  ~/CLS/LDAP/Scripts/perl/LDAP-remove-host-support.perl
+-'  1  0  ~/CLS/LDAP/Scripts/perl/LDAP-remove-host-support.perl
+-'  4  1  ~/.gitconfig
+-'  5  26  ~/git/J3z.github.io/README.md
+-'  1  0  ~/git/J3z.github.io/README.md
+-'  3  22  ~/.gitconfig
+-'  1  0  ~/.git
+-'  1  0  ~/.git-credential-cache/socket|
+-'  9  0  ~/.git-credential-cache
+-'  8  0  ~/.git-credential-cache
+-'  8  0  ~/git/J3z.github.io
+-'  8  0  ~/git
+-'  9  11  ~/git/J3z.github.io/index.html
+-'  7  23  ~/git/J3z.github.io/_config.yml
+-'  29  51  ~/git/J3z.github.io/_layouts/j3z.html
+-'  28  96  ~/git/J3z.github.io/_layouts/j3z.html
+-'  35  12  ~/git/J3z.github.io/_layouts/j3z.html
+-'  30  21  ~/git/J3z.github.io/_layouts/j3z.html
+-'  32  18  ~/git/J3z.github.io/_layouts/j3z.html
+-'  12  4  ~/git/J3z.github.io/_layouts/j3z.html
+-'  29  14  ~/git/J3z.github.io/css/font-awesome/font-awesome.css
+-'  1  0  ~/git/J3z.github.io/css/font-awesome/font-awesome.css
+-'  41  6  ~/git/J3z.github.io/_layouts/j3z.html
+-'  38  16  ~/git/J3z.github.io/_layouts/j3z.html
+-'  16  8  ~/git/J3z.github.io/_layouts/j3z.html
+-'  39  51  ~/git/J3z.github.io/_layouts/j3z.html
+-'  9  0  ~/git/J3z.github.io/_layouts/j3z.html
+-'  10  0  ~/git/J3z.github.io/_layouts
+-'  4  11  ~/git/J3z.github.io/_config.yml
+-'  21  0  ~/git/J3z.github.io/css/main.css
+-'  1  0  ~/git/J3z.github.io/css/main.css
+-'  1  0  ~/git/J3z.github.io/_posts/2013-06-11-welcome-to-jekyll.markdown
+-'  9  0  ~/git/J3z.github.io/_posts
+-'  26  0  ~/git/J3z.github.io
+-'  42  15  ~/git/J3z.github.io/_layouts/default.html
+-'  6  0  ~/git/J3z.github.io/index.html
+-'  6  56  ~/git/J3z.github.io/README.md
+-'  13  49  ~/git/J3z.github.io/_layouts/default.html
+-'  1  0  ~/git/J3z.github.io/_layouts/default.html
+-'  24  0  ~/git/J3z.github.io/_posts/2013-06-11-welcome-to-jekyll.markdown
+-'  6  18  ~/git/blog/README.md
+-'  1  0  ~/git/blog/README.md
+-'  3  32  ~/my-test-site/_posts/2013-06-06-hello-world.textile
+-'  1  0  ~/my-test-site/_posts/2013-06-06-hello-world.textile
+-'  5  0  ~/Learning/C/ex1/ex1.c
+
+# Historique des marques dans les fichiers (les plus récentes en premier) :
+
+> ~/.gitconfig
+	"	12	36
+	^	12	37
+	.	12	36
+	+	13	1
+	+	4	0
+	+	13	30
+	+	4	12
+	+	13	42
+	+	3	8
+	+	4	0
+	+	3	14
+	+	5	0
+	+	8	12
+	+	8	0
+	+	7	0
+	+	13	15
+	+	13	52
+	+	13	0
+	+	9	0
+	+	11	15
+	+	12	36
+
+> ~/CLS/GAS/checklist-generator/tpl/index.twig
+	"	51	16
+	^	55	55
+	.	55	54
+	+	51	54
+	+	52	53
+	+	53	55
+	+	54	59
+	+	55	54
+
+> ~/.vimrc
+	"	14	26
+	^	14	27
+	.	14	26
+	+	7	0
+	+	7	49
+	+	7	0
+	+	7	0
+	+	21	24
+	+	23	0
+	+	7	0
+	+	24	0
+	+	7	0
+	+	8	13
+	+	9	0
+	+	10	13
+	+	12	13
+	+	19	0
+	+	14	26
+
+> ~/.vim/syntax/htmltwig.vim
+	"	1	0
+	^	27	37
+	.	27	4
+	+	27	4
+
+> ~/CLS/GAS/checklist-generator/index.php
+	"	1	0
+	^	16	44
+	.	16	43
+	+	1	18
+	+	20	0
+	+	1	4
+	+	20	0
+	+	1	5
+	+	2	46
+	+	20	29
+	+	7	43
+	+	16	47
+	+	19	1
+	+	20	0
+	+	19	34
+	+	17	0
+	+	16	42
+	+	8	0
+	+	2	0
+	+	2	0
+	+	2	13
+	+	7	2
+	+	19	55
+	+	7	1
+	+	3	2
+	+	2	14
+	+	3	1
+	+	19	0
+	+	6	0
+	+	7	2
+	+	8	2
+	+	7	39
+	+	8	1
+	+	16	0
+	+	18	0
+	+	19	43
+	+	8	64
+	+	10	0
+	+	9	0
+	+	11	0
+	+	4	0
+	+	5	0
+	+	4	0
+	+	3	37
+	+	10	2
+	+	3	2
+	+	15	0
+	+	16	43
+
+> ~/CLS/GAS/checklist-generator/tpl/index.tpl
+	"	60	2
+	^	55	36
+	.	55	35
+	+	163	21
+	+	17	0
+	+	18	7
+	+	162	0
+	+	1	0
+	+	1	0
+	+	17	0
+	+	158	0
+	+	147	0
+	+	157	0
+	+	18	10
+	+	18	0
+	+	18	0
+	+	52	0
+	+	51	47
+	+	44	0
+	+	43	6
+	+	43	4
+	+	3	8
+	+	4	3
+	+	13	6
+	+	5	42
+	+	61	25
+	+	128	13
+	+	26	3
+	+	60	13
+	+	26	22
+	+	128	0
+	+	143	0
+	+	148	30
+	+	26	17
+	+	61	16
+	+	26	18
+	+	61	16
+	+	148	0
+	+	61	0
+	+	51	29
+	+	52	36
+	+	51	49
+	+	52	52
+	+	53	47
+	+	54	51
+	+	55	46
+	+	53	35
+	+	51	35
+	+	54	35
+	+	55	35
+
+> ~/CLS/GAS/checklist-generator/index.html
+	"	16	4
+	.	16	0
+	+	1	0
+	+	152	0
+	+	150	0
+	+	141	0
+	+	140	0
+	+	16	0
+
+> ~/CLS/GAS/checklist-generator/js/script.js
+	"	27	0
+	^	41	37
+	.	41	36
+	+	41	9
+	+	1	0
+	+	47	0
+	+	1	0
+	+	36	0
+	+	37	2
+	+	38	0
+	+	41	11
+	+	46	0
+	+	41	36
+
+> ~/CLS/GAS/checklist-generator/tpl/ajax.tpl
+	"	5	11
+	^	4	9
+	.	4	8
+	+	1	45
+	+	5	2
+	+	3	18
+	+	1	23
+	+	4	8
+
+> ~/CLS/GAS/checklist-generator/index.
+	"	1	0
+
+> ~/CLS/GAS/html/checklist/index.html
+	"	1	0
+
+> ~/CLS/GAS/html/checklist/checklist.css
+	"	1	0
+
+> ~/CLS/GAS/checklist-generator/composer.json
+	"	1	0
+	^	5	5
+	.	2	0
+	+	1	3
+	+	1	1
+	+	5	4
+	+	2	0
+
+> ~/git/J3z.github.io/css/main-j3z.css
+	"	45	30
+	^	45	31
+	.	45	30
+	+	97	17
+	+	97	12
+	+	97	0
+	+	108	0
+	+	102	0
+	+	101	14
+	+	97	0
+	+	108	0
+	+	97	0
+	+	97	0
+	+	97	0
+	+	97	0
+	+	97	0
+	+	97	0
+	+	96	0
+	+	96	0
+	+	36	1
+	+	38	0
+	+	48	0
+	+	48	0
+	+	48	0
+	+	48	0
+	+	57	0
+	+	61	0
+	+	68	13
+	+	72	0
+	+	72	4
+	+	78	0
+	+	72	19
+	+	68	14
+	+	72	12
+	+	76	0
+	+	75	15
+	+	72	13
+	+	72	11
+	+	72	12
+	+	72	23
+	+	48	12
+	+	48	0
+	+	48	0
+	+	48	25
+	+	48	29
+	+	72	26
+	+	72	14
+	+	84	9
+	+	88	0
+	+	88	15
+	+	86	16
+	+	90	19
+	+	94	0
+	+	91	0
+	+	72	0
+	+	91	37
+	+	92	16
+	+	56	18
+	+	60	13
+	+	93	15
+	+	87	18
+	+	86	13
+	+	48	13
+	+	48	0
+	+	48	0
+	+	88	0
+	+	48	8
+	+	73	0
+	+	74	0
+	+	63	19
+	+	63	0
+	+	63	1
+	+	63	23
+	+	63	44
+	+	63	14
+	+	66	0
+	+	65	12
+	+	63	0
+	+	139	0
+	+	103	0
+	+	141	0
+	+	143	10
+	+	151	0
+	+	148	1
+	+	69	0
+	+	149	0
+	+	151	0
+	+	122	16
+	+	139	0
+	+	40	3
+	+	46	0
+	+	48	0
+	+	7	0
+	+	19	0
+	+	48	0
+	+	49	0
+	+	50	1
+	+	44	16
+	+	43	15
+	+	41	28
+	+	41	28
+	+	42	16
+	+	45	30
+
+> ~/git/J3z.github.io/index.html
+	"	1	0
+	^	10	47
+	.	10	46
+	+	2	8
+	+	3	13
+	+	2	10
+	+	7	0
+	+	9	10
+	+	11	39
+	+	12	1
+	+	9	6
+	+	11	4
+	+	11	0
+	+	11	88
+	+	4	2
+	+	11	56
+	+	11	4
+	+	11	51
+	+	10	46
+
+> ~/CLS/LDAP/Schemas/sudoer.schema
+	"	41	37
+	^	11	0
+	.	2	0
+	+	143	42
+	+	117	0
+	+	72	42
+	+	4	0
+	+	3	3
+	+	4	0
+	+	5	0
+	+	6	1
+	+	4	0
+	+	3	3
+	+	2	3
+	+	6	1
+	+	8	0
+	+	9	0
+	+	10	0
+	+	11	0
+	+	2	0
+
+> ~/git/J3z.github.io/_layouts/j3z.html
+	"	20	62
+	^	20	63
+	.	20	62
+	+	38	0
+	+	38	14
+	+	9	49
+	+	9	0
+	+	38	31
+	+	38	0
+	+	39	1
+	+	38	1
+	+	39	31
+	+	12	28
+	+	9	55
+	+	9	14
+	+	12	48
+	+	39	35
+	+	14	31
+	+	15	26
+	+	16	30
+	+	19	28
+	+	16	0
+	+	19	10
+	+	16	24
+	+	17	17
+	+	20	47
+	+	38	0
+	+	21	15
+	+	27	17
+	+	30	20
+	+	32	20
+	+	32	17
+	+	33	15
+	+	34	12
+	+	38	0
+	+	22	17
+	+	23	20
+	+	24	20
+	+	24	20
+	+	24	17
+	+	38	0
+	+	9	0
+	+	10	43
+	+	9	0
+	+	11	0
+	+	30	81
+	+	32	84
+	+	30	87
+	+	32	92
+	+	30	0
+	+	31	67
+	+	29	0
+	+	28	52
+	+	24	0
+	+	39	37
+	+	28	95
+	+	28	0
+	+	23	34
+	+	28	50
+	+	24	38
+	+	23	64
+	+	24	66
+	+	11	61
+	+	25	11
+	+	26	9
+	+	24	0
+	+	19	23
+	+	16	20
+	+	14	29
+	+	11	0
+	+	30	64
+	+	29	61
+	+	31	71
+	+	20	31
+	+	39	41
+	+	20	62
+
+> ~/git/J3z.github.io/_config.yaml
+	"	1	0
+
+> ~/git/J3z.github.io/_config.yml
+	"	8	0
+	^	9	13
+	.	9	13
+	+	1	18
+	+	12	0
+	+	12	0
+	+	11	0
+	+	10	0
+	+	7	0
+	+	7	0
+	+	11	15
+	+	10	15
+	+	11	14
+	+	10	11
+	+	7	26
+	+	7	21
+	+	6	23
+	+	6	12
+	+	10	9
+	+	7	23
+	+	1	6
+	+	7	0
+	+	6	0
+	+	12	0
+	+	8	14
+	+	3	0
+	+	4	0
+	+	9	12
+	+	9	13
+
+> ~/git/J3z.github.io/_layouts/posts.html
+	"	1	0
+
+> ~/git/J3z.github.io/_layouts/post.html
+	"	5	0
+	^	5	33
+	.	5	32
+	+	2	10
+	+	4	16
+	+	4	16
+	+	6	0
+	+	6	0
+	+	4	19
+	+	7	36
+	+	4	3
+	+	6	11
+	+	7	32
+	+	5	32
+
+> ~/.gitignore
+	"	1	1
+	^	1	2
+	.	1	1
+	+	3	4
+	+	1	1
+
+> ~/CLS/LDAP/Scripts/perl/add-group-user.perl
+	"	35	10
+	.	1	0
+	+	1	0
+
+> ~/CLS/LDAP/Scripts/perl/LDAP-remove-host-support.perl
+	"	41	0
+
+> ~/git/J3z.github.io/README.md
+	"	5	26
+	^	5	27
+	.	5	26
+	+	1	22
+	+	2	21
+	+	6	0
+	+	5	26
+
+> ~/.git
+	"	1	0
+
+> ~/.git-credential-cache/socket|
+	"	1	0
+
+> ~/git/J3z.github.io/css/font-awesome/font-awesome.css
+	"	29	14
+	^	29	15
+	.	29	14
+	+	59	0
+	+	30	97
+	+	30	13
+	+	29	14
+
+> ~/git/J3z.github.io/_layouts/default.html
+	"	11	0
+	^	31	50
+	.	31	49
+	+	37	73
+	+	38	78
+	+	37	47
+	+	38	51
+	+	30	32
+	+	32	35
+	+	31	49
+
+> ~/git/J3z.github.io/css/main.css
+	"	21	0
+
+> ~/git/J3z.github.io/_posts/2013-06-11-welcome-to-jekyll.markdown
+	"	1	0
+
+> ~/git/blog/README.md
+	"	6	18
+	^	6	19
+	.	6	18
+	+	4	0
+	+	3	0
+	+	4	54
+	+	6	18
+
+> ~/my-test-site/_posts/2013-06-06-hello-world.textile
+	"	3	32
+	^	3	10
+	.	3	32
+	+	3	32
+
+> ~/Dropbox/CLS-LDAP/conf/sssd.conf
+	"	57	0
+	^	57	0
+	.	56	0
+	+	56	0
+
+> ~/Learning/C/ex1/ex1.c
+	"	5	0
+	^	5	1
+	.	1	26
+	+	5	0
+	+	3	21
+	+	4	9
+	+	1	26
+
+> ~/Programs/flashplugin-nonfree-3.2/.wgetrc
+	"	1	48
+	^	1	49
+	.	1	48
+	+	3	0
+	+	1	48
+
+> ~/.zshrc
+	"	12	42
+	^	12	43
+	.	12	42
+	+	11	33
+	+	1	3
+	+	2	71
+	+	3	0
+	+	11	34
+	+	3	1
+	+	2	80
+	+	7	0
+	+	6	0
+	+	5	9
+	+	5	91
+	+	16	4
+	+	16	10
+	+	16	10
+	+	16	11
+	+	16	9
+	+	16	0
+	+	16	0
+	+	16	36
+	+	16	26
+	+	16	41
+	+	16	0
+	+	7	23
+	+	16	34
+	+	16	10
+	+	16	0
+	+	12	0
+	+	13	14
+	+	14	0
+	+	15	27
+	+	13	48
+	+	12	42
+
+> ~/CLS/LDAP/Scripts/perl/LDAP_remove_host_support.perl
+	"	9	16
+	^	9	17
+	.	9	16
+	+	3	0
+	+	19	0
+	+	6	37
+	+	7	12
+	+	6	13
+	+	7	13
+	+	6	16
+	+	7	17
+	+	8	20
+	+	11	49
+	+	17	0
+	+	9	29
+	+	19	0
+	+	6	20
+	+	7	29
+	+	18	1
+	+	13	33
+	+	6	2
+	+	7	2
+	+	8	2
+	+	9	2
+	+	11	2
+	+	12	2
+	+	9	16
